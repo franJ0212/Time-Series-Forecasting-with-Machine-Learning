@@ -28,7 +28,6 @@ Precios de cierre históricos de acciones de NVIDIA. Serie caracterizada por alt
 ├── FranciscoHernandez_OscarPerez_Proyecto.pdf      # Documento técnico detallado
 ├── AirPassengers.csv                                # Dataset de pasajeros aéreos
 ├── NVDA.csv                                         # Dataset de precios NVIDIA
-└── Contribuciones.txt                               # Distribución del trabajo
 ```
 
 ## Notebook Principal
